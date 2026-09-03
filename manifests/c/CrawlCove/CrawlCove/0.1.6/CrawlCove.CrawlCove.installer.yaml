@@ -1,0 +1,17 @@
+PackageIdentifier: CrawlCove.CrawlCove
+PackageVersion: 0.1.6
+MinimumOSVersion: 10.0.0.0
+InstallerType: nullsoft
+Scope: user
+InstallModes:
+  - interactive
+  - silent
+  - silentWithProgress
+UpgradeBehavior: install
+ReleaseDate: 2026-09-01
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://crawlcove.com/updates/Crawl-Cove-0.1.6-Setup.exe
+    InstallerSha256: 0D14253E3C900C5656B00F1F5C00AF05A179CA8C909ECA489DB825B0914B52A1
+ManifestType: installer
+ManifestVersion: 1.12.0
